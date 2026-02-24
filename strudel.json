@@ -1,0 +1,4 @@
+{
+"_base": "https://github.com/Bananut/strudel/raw/refs/heads/main/",
+"breaks": ["samples/cw_amen01_175.wav","samples/cw_amen02_165.wav","samples/cw_amen03_167.wav","samples/cw_amen04_170.wav","samplescw_amen05_158.wav"]
+}
