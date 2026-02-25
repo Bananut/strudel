@@ -6,5 +6,10 @@
     "cw_amen03_167.wav",
     "cw_amen04_170.wav",
     "cw_amen05_158.wav"
+  ],
+  "bass": [
+    "bass1.wav",
+    "bass2.wav",
+    "bass3.wav"
   ]
 }
