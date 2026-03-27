@@ -11,5 +11,32 @@
     "bass1.wav",
     "bass2.wav",
     "bass3.wav"
+  ],
+  "jazz_bassdrums": [
+    "JK_BD_02.wav",
+    "JK_BD_06.wav"
+  ],
+  "jazz_snaredrums": [
+    "JK_SNR_01.wav",
+    "JK_SNR_02.wav",
+    "JK_SNR_03.wav",
+    "JK_SNR_04.wav",
+    "JK_SNR_07.wav"
+  ],
+  "jazz_highhats": [
+    "JK_HH_01.wav",
+    "JK_HH_02.wav"
+  ],
+  "jazz_prc": [
+    "JK_HH_03.wav",
+    "JK_HH_04.wav",
+    "JK_HH_05.wav",
+    "JK_HH_06.wav",
+    "JK_HH_09.wav",
+    "JK_HH_10.wav"
+  ],
+  "jazz_brsh": [
+    "JK_BRSH_01.wav",
+    "JK_BRSH_02.wav"
   ]
 }
